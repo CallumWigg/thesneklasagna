@@ -1,0 +1,15 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:yogurtitem"
+    },
+    {
+      "item": "pamhc2foodcore:caramelitem"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:caramelyogurtitem",
+	"count": 1}]
+}

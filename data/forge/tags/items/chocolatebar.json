@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "pamhc2foodcore:chocolatebaritem",
+    "create:bar_of_chocolate"
+  ]
+}

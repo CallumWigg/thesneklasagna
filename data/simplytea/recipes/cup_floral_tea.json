@@ -1,0 +1,23 @@
+{
+	"type": "create:mixing",
+  "group": "simplytea:floral_tea",
+	"ingredients": [
+	  {
+		"item": "simplytea:teabag_floral"
+	  },
+	  {
+		"item": "simplytea:cup"
+	  },
+	  {
+		"fluid": "minecraft:water",
+		"nbt": {},
+		"amount": 250
+	  }
+	],
+	"results": [
+	  {
+		"item": "simplytea:cup_tea_floral"
+	  }
+	],
+	"heatRequirement": "heated"
+  }

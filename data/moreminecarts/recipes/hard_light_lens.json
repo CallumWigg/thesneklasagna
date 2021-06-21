@@ -1,0 +1,26 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "create:refined_radiance"
+    },
+    {
+      "item": "moreminecarts:chiseled_organic_glass"
+    },
+    {
+      "item": "moreminecarts:chiseled_organic_glass"
+    },
+    {
+      "item": "moreminecarts:chiseled_organic_glass"
+    },
+    {
+      "item": "moreminecarts:chiseled_organic_glass"
+    }
+  ],
+  "results": [
+    {
+      "item": "moreminecarts:hard_light_lens"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

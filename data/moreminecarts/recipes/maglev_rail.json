@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QLQ",
+    "QSQ",
+    "Q Q"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "Q": {
+      "item": "moreminecarts:silica_steel"
+    },
+    "L": {
+      "item": "moreminecarts:levitation_powder"
+    }
+  },
+  "result": {
+    "item": "moreminecarts:maglev_rail",
+    "count": 12
+  }
+}

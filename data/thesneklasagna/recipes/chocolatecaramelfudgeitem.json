@@ -1,0 +1,16 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:caramelitem"
+    },
+    {
+      "tag": "forge:chocolatebar"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:chocolatecaramelfudgeitem",
+	"count": 1}],
+  "heatRequirement": "heated"
+}

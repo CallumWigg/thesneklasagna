@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:pastaitem"
+    },
+    {
+      "item": "pamhc2foodcore:cheeseitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:macncheeseitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

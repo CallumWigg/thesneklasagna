@@ -1,0 +1,14 @@
+{
+	"type": "create:milling",
+	
+	"ingredients":
+	[
+    {
+      "item": "minecraft:porkchop"
+    }
+	],
+	
+	"results": [{"item": "pamhc2foodcore:groundporkitem",
+	"count": 1}],
+	"processingTime": 120
+}

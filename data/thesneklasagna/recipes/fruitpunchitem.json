@@ -1,0 +1,19 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "forge:fruits"
+    },
+    {
+      "tag": "forge:fruits"
+    },
+    {
+      "tag": "forge:fruits"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:fruitpunchitem"
+    }
+  ]
+}

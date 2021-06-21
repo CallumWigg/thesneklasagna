@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:piston"
+    },
+    "B": {
+      "item": "create:extendo_grip"
+    },
+    "C": {
+      "item": "moreminecarts:iron_pushcart"
+    }
+  },
+  "result": {
+    "item": "moreminecarts:piston_pushcart",
+    "count": 1
+  }
+}

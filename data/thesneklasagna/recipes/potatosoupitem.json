@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "pamhc2foodcore:stockitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:potatosoupitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,17 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:cocoapowderitem"
+    },
+    {
+      "fluidTag": "forge:milk",
+      "amount": 250
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:chocolatepuddingitem",
+	"count": 1}],
+  "heatRequirement": "heated"
+}

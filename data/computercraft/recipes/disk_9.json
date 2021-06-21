@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ABA",
+        "ACA",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "item": "create:iron_sheet"
+        },
+        "B": {
+            "item": "minecraft:gray_dye"
+        },
+        "C": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "computercraft:disk",
+        "nbt": "{Color:5000268}"
+    }
+}

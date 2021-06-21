@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "tag": "forge:caramel"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:caramelappleitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

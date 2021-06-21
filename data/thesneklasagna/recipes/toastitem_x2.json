@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smoking",
+	"ingredient": {
+	  "item": "minecraft:bread"
+	},
+	"result": "pamhc2foodcore:toastitem",
+	"experience": 0.0,
+	"cookingtime": 100
+  }

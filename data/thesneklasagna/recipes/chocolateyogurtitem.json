@@ -1,0 +1,15 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:yogurtitem"
+    },
+    {
+      "tag": "forge:chocolatebar"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:chocolateyogurtitem",
+	"count": 1}]
+}

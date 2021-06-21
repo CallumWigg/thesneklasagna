@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:fruits"
+    },
+    {
+      "tag": "forge:fruits"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:fruitsaladitem"
+    }
+  ]
+}

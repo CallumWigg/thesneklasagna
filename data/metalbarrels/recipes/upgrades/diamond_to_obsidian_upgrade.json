@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "   ",
+        "ogo",
+        "   "
+    ],
+    "key":{
+        "o":{"item":"create:shadow_steel"},
+        "g":{"item": "minecraft:glass_pane"}
+    },
+
+    "result":{"item":"metalbarrels:diamond_to_obsidian"}
+}

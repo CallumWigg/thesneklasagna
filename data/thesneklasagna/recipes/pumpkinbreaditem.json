@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "tag": "forge:dough"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:pumpkinbreaditem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

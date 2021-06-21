@@ -1,0 +1,15 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:applejuiceitem"
+    },
+    {
+      "tag": "forge:ices"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:applesmoothieitem",
+	"count": 1}]
+}

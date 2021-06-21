@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "pamhc2foodcore:vinegaritem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:pickledbeetsitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

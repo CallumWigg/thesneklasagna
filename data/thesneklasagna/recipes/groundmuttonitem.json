@@ -1,0 +1,14 @@
+{
+	"type": "create:milling",
+	
+	"ingredients":
+	[
+    {
+      "item": "minecraft:mutton"
+    }
+	],
+	
+	"results": [{"item": "pamhc2foodcore:groundmuttonitem",
+	"count": 1}],
+	"processingTime": 120
+}

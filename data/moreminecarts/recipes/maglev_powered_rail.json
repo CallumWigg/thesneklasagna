@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GLG",
+    "QRQ",
+    "GLG"
+  ],
+  "key": {
+    "G": {
+      "item": "create:golden_sheet"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "L": {
+      "item": "moreminecarts:levitation_powder"
+    },
+    "Q": {
+      "item": "moreminecarts:silica_steel"
+    }
+  },
+  "result": {
+    "item": "moreminecarts:maglev_powered_rail",
+    "count": 8
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:marshmellowsitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

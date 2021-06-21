@@ -1,0 +1,15 @@
+{
+	"type": "create:compacting",
+	
+	"ingredients":
+	[
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:sweetberryjuiceitem",
+	"count": 1}]
+}

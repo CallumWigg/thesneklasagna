@@ -1,0 +1,16 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:vegetables"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:p8juiceitem"
+    }
+  ]
+}

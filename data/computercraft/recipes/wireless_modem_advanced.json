@@ -1,0 +1,26 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "ABA",
+        "CDC",
+        " A "
+    ],
+    "key": {
+        "A": {
+            "item": "create:golden_sheet"
+        },
+        "B": {
+            "item": "computercraft:wireless_modem_normal"
+        },
+        "C": {
+            "item": "create:shadow_steel"
+        },
+        "D": {
+            "item": "minecraft:ender_eye"
+        }
+    },
+    "result": {
+        "item": "computercraft:wireless_modem_advanced",
+        "count": 1
+    }
+}

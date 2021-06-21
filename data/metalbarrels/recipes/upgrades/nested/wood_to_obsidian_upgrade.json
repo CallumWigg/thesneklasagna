@@ -1,0 +1,13 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "   ",
+        "oio",
+        "   "
+    ],
+    "key":{
+        "o":{"item":"create:shadow_steel"},
+        "i":{"item":"metalbarrels:wood_to_diamond"}
+    },
+    "result":{"item":"metalbarrels:wood_to_obsidian"}
+}

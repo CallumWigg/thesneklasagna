@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:chicken"
+    },
+    {
+      "item": "pamhc2foodcore:saltitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:chickenjerkyitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

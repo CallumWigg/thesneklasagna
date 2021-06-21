@@ -1,0 +1,13 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "moreminecarts:silica_steel_mix"
+      }
+    ],
+    "results": [
+      {
+        "item": "moreminecarts:silica_steel"
+      }
+    ]
+  }

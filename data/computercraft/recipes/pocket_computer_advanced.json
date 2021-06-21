@@ -1,0 +1,26 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        " A ",
+        "BCB",
+        " D "
+    ],
+    "key": {
+        "A": {
+            "item": "create:electron_tube"
+        },
+        "B": {
+            "item": "create:chromatic_compound"
+        },
+        "C": {
+            "item": "computercraft:computer_advanced"
+        },
+        "D": {
+            "item": "create:integrated_circuit"
+        }
+    },
+    "result": {
+        "item": "computercraft:pocket_computer_advanced",
+        "count": 1
+    }
+}

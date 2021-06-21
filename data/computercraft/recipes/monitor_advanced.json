@@ -1,0 +1,26 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        " B ",
+        "CAC",
+        " D "
+    ],
+    "key": {
+        "A": {
+            "item": "computercraft:monitor_normal"
+        },
+        "B": {
+            "item": "create:electron_tube"
+        },
+        "C": {
+            "item": "create:golden_sheet"
+        },
+        "D": {
+            "item": "create:integrated_circuit"
+        }
+    },
+    "result": {
+        "item": "computercraft:monitor_advanced",
+        "count": 1
+    }
+}

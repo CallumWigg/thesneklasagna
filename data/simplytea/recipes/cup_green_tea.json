@@ -1,0 +1,23 @@
+{
+	"type": "create:mixing",
+  "group": "simplytea:green_tea",
+	"ingredients": [
+	  {
+		"item": "simplytea:teabag_green"
+	  },
+	  {
+		"item": "simplytea:cup"
+	  },
+	  {
+		"fluid": "minecraft:water",
+		"nbt": {},
+		"amount": 250
+	  }
+	],
+	"results": [
+	  {
+		"item": "simplytea:cup_tea_green"
+	  }
+	],
+	"heatRequirement": "heated"
+  }

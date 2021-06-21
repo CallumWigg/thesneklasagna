@@ -1,0 +1,14 @@
+{
+	"type": "create:milling",
+	
+	"ingredients":
+	[
+    {
+      "item": "minecraft:rabbit"
+    }
+	],
+	
+	"results": [{"item": "pamhc2foodcore:groundrabbititem",
+	"count": 1}],
+	"processingTime": 120
+}

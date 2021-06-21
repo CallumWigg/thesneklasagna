@@ -1,0 +1,22 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "A",
+    "B",
+    "C"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:condiments"
+    },
+    "B": {
+      "item": "pamhc2foodcore:groundporkitem"
+    },
+    "C": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "pamhc2foodcore:hotdogitem"
+  }
+}

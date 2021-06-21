@@ -1,0 +1,16 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:applejuiceitem"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:applejellyitem",
+	"count": 1}],
+  "heatRequirement": "heated"
+}

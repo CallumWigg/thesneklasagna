@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:groundfishitem"
+    },
+    {
+      "item": "pamhc2foodcore:saltitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:fishsticksitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

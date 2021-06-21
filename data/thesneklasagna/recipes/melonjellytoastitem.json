@@ -1,0 +1,15 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:melonjellyitem"
+    },
+    {
+      "item": "pamhc2foodcore:toastitem"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:melonjellytoastitem",
+	"count": 1}]
+}

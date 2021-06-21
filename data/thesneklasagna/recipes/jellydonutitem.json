@@ -1,0 +1,21 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:cookingoilitem"
+    },
+    {
+      "item": "pamhc2foodcore:batteritem"
+    },
+    {
+      "tag": "forge:jellies"
+    }
+	],
+	
+	"results": [{"item": "pamhc2foodcore:jellydonutitem",
+	"count": 1}
+  ],
+  "heatRequirement": "heated"	
+}

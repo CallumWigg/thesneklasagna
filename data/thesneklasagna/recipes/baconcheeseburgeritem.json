@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "A",
+    "B",
+    "E",
+    "D",
+    "C",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:bread"
+    },
+    "B": {
+      "item": "pamhc2foodcore:mayonaiseitem"
+    },
+    "C": {
+      "item": "pamhc2foodcore:groundbeefitem"
+    },
+    "D": {
+      "item": "pamhc2foodcore:cheeseitem"
+    },
+    "E": {
+      "item": "minecraft:cooked_porkchop"
+    }
+  },
+  "result": {
+    "item": "pamhc2foodcore:baconcheeseburgeritem"
+  }
+}

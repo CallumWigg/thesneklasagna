@@ -1,0 +1,29 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "ABA",
+        "CDC",
+        "AEA"
+    ],
+    "key": {
+        "A": {
+            "item": "create:iron_sheet"
+        },
+        "B": {
+            "item": "create:electron_tube"
+        },
+        "C": {
+            "item": "create:brass_sheet"
+        },
+        "D": {
+            "item": "minecraft:note_block"
+        },
+        "E": {
+            "item": "create:integrated_circuit"
+        }
+    },
+    "result": {
+        "item": "computercraft:speaker",
+        "count": 1
+    }
+}

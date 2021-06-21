@@ -1,0 +1,13 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:creamitem"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:butteritem"
+}
+  ]
+}

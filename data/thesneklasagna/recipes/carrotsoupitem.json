@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "pamhc2foodcore:stockitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:carrotsoupitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

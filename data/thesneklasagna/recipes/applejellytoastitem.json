@@ -1,0 +1,15 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:applejellyitem"
+    },
+    {
+      "item": "pamhc2foodcore:toastitem"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:applejellytoastitem",
+	"count": 1}]
+}

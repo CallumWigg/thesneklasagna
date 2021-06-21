@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:egg"
+    },
+    {
+      "item": "create:wheat_flour"
+    },
+    {
+      "fluidTag": "forge:milk",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:batteritem",
+      "count": 1
+    }
+  ]
+}

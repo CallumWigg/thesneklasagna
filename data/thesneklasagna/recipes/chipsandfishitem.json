@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " A",
+    "CB"
+  ],
+  "key": {
+    "A": {
+      "item": "pamhc2foodcore:saltitem"
+    },
+    "B": {
+      "tag": "forge:cookedfish"
+    },
+    "C": {
+      "item": "pamhc2foodcore:friesitem"
+    }
+  },
+  "result": {
+    "item": "pamhc2foodcore:fishandchipsitem"
+  }
+}

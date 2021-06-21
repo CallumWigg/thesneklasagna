@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:marshmellowsitem"
+    },
+    {
+      "tag": "forge:dyes"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:marshmellowchicksitem"
+    }
+  ]
+}

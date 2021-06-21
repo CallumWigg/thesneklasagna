@@ -1,0 +1,16 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "minecraft:porkchop"
+    },
+    {
+      "tag": "forge:chocolatebar"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:chocolatebaconitem",
+	"count": 1}],
+  "heatRequirement": "heated"
+}

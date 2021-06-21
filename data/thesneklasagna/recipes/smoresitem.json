@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:crackeritem"
+    },
+    {
+      "tag": "forge:chocolatebar"
+    },
+    {
+      "item": "pamhc2foodcore:marshmellowsitem"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:smoresitem",
+	"count": 1}],
+  "heatRequirement": "heated"
+}

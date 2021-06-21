@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "forge:dough"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:carrotbreaditem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,22 @@
+{
+	"type": "create:mixing",
+	"ingredients":
+	[
+    {
+      "tag": "forge:crops/pumpkin"
+    },
+    {
+      "item": "pamhc2foodcore:cheeseitem"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "item": "pamhc2foodcore:batteritem"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:pumpkincheesecakeitem",
+	"count": 1}
+  ],
+  "heatRequirement": "heated"
+}

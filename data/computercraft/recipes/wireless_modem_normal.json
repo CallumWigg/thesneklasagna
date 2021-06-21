@@ -1,0 +1,26 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "ABA",
+        "CDC",
+        " A "
+    ],
+    "key": {
+        "A": {
+            "item": "create:iron_sheet"
+        },
+        "B": {
+            "item": "create:redstone_link"
+        },
+        "C": {
+            "item": "create:polished_rose_quartz"
+        },
+        "D": {
+            "item": "computercraft:wired_modem"
+        }
+    },
+    "result": {
+        "item": "computercraft:wireless_modem_normal",
+        "count": 1
+    }
+}

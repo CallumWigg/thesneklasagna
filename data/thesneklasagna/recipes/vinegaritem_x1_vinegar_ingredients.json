@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:vinegar_ingredients"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:vinegaritem"
+    }
+  ]
+}

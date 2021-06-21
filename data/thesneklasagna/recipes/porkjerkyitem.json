@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:porkchop"
+    },
+    {
+      "item": "pamhc2foodcore:saltitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:porkjerkyitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

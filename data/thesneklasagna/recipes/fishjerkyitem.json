@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "forge:fishes"
+    },
+    {
+      "item": "pamhc2foodcore:saltitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:fishjerkyitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "minecraft:egg"
+  },
+  "result": "pamhc2foodcore:friedeggitem",
+  "experience": 0.0,
+  "cookingtime": 80
+}

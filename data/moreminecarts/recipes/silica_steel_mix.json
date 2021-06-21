@@ -1,0 +1,29 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "create:andesite_alloy"
+      },
+      {
+        "tag": "minecraft:coals"
+      },
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "minecraft:quartz"
+      },
+      {
+        "item": "minecraft:quartz"
+      },
+      {
+        "item": "minecraft:quartz"
+      }
+    ],
+    "results": [
+      {
+        "item": "moreminecarts:silica_steel_mix"
+      }
+    ],
+    "heatRequirement": "superheated"
+  }

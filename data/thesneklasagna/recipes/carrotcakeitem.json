@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	"ingredients":
+	[
+    {
+      "tag": "forge:crops/carrot"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "item": "pamhc2foodcore:batteritem"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:carrotcakeitem",
+	"count": 1}
+  ],
+  "heatRequirement": "heated"
+}

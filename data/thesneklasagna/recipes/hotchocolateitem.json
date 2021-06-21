@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+    {
+      "tag": "forge:marshmellows"
+    },
+    {
+      "fluidTag": "forge:milk",
+      "amount": 250
+    },
+    {
+      "tag": "forge:cocoapowder"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:hotchocolateitem",
+	"count": 1
+}],
+	"heatRequirement": "heated"
+}

@@ -1,0 +1,18 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:crops/pumpkin"
+    },
+    {
+      "item": "pamhc2foodcore:batteritem"
+    }
+	],
+	
+	"results": [{"item": "pamhc2foodcore:pumpkinmuffinitem",
+	"count": 2}
+  ],
+  "heatRequirement": "heated"	
+}

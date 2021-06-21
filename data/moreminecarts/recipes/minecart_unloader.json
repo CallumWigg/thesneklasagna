@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "moreminecarts:silica_steel"
+    },
+    "B": {
+      "item": "create:adjustable_crate"
+    },
+    "C": {
+      "item": "create:smart_chute"
+    }
+  },
+  "result": {
+    "item": "moreminecarts:minecart_unloader",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"type": "create:milling",
+	
+	"ingredients":
+	[
+    {
+      "item": "minecraft:chicken"
+    }
+	],
+	
+	"results": [{"item": "pamhc2foodcore:groundchickenitem",
+	"count": 1}],
+	"processingTime": 120
+}

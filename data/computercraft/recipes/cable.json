@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AAA",
+        "BCB",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "item": "create:andesite_alloy"
+        },
+        "B": {
+            "item": "create:polished_rose_quartz"
+        },
+        "C": {
+            "item": "create:powdered_obsidian"
+        }
+    },
+    "result": {
+        "item": "computercraft:cable",
+        "count": 6
+    }
+}

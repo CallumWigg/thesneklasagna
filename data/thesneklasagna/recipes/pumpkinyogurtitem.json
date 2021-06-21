@@ -1,0 +1,15 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:yogurtitem"
+    },
+    {
+      "item": "minecraft:pumpkin"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:pumpkinyogurtitem",
+	"count": 1}]
+}

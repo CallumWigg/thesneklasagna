@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	"ingredients":
+	[
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "item": "pamhc2foodcore:cheeseitem"
+    },
+    {
+      "item": "pamhc2foodcore:batteritem"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:cheesecakeitem",
+	"count": 1}
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:rabbit"
+    },
+    {
+      "item": "pamhc2foodcore:saltitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:rabbitjerkyitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

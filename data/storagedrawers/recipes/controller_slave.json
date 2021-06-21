@@ -1,0 +1,21 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "ABCBA",
+        "DEFED",
+        "ABGBA"
+    ],
+    "key": {
+        "A": { "item": "create:andesite_alloy" },
+        "B": { "item": "create:iron_sheet" },
+        "C": { "item": "minecraft:comparator" },
+        "D": { "item": "create:brass_tunnel" },
+        "E": { "item": "create:golden_sheet" },
+        "F": { "tag": "storagedrawers:drawers" },
+        "G": { "item": "create:andesite_casing" }
+    },
+    "result": {
+        "item": "storagedrawers:controller_slave",
+        "count": 1
+    }
+}

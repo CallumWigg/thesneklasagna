@@ -1,0 +1,18 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+	  {
+		"tag": "forge:crops/coffeebean"
+	  },
+	  {
+		"fluidTag": "forge:milk",
+		"amount": 250
+	  }
+	],
+	"results": [
+	  {
+		"item": "pamhc2crops:hotcoffeeitem"
+	  }
+	],
+	"heatRequirement": "heated"
+  }

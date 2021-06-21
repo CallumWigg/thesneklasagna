@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:chicken"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "forge:dough"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:chickenpotpieitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

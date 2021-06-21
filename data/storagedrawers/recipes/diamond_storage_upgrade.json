@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/A/",
+        "#X#",
+        "/A/"
+    ],
+    "key": {
+        "/": { "tag": "forge:rods/wooden" },
+        "#": { "tag": "forge:storage_blocks/diamond" },
+        "X": { "item": "storagedrawers:upgrade_template" },
+        "A": { "item": "create:adjustable_crate" }
+    },
+    "result": { "item": "storagedrawers:diamond_storage_upgrade" }
+}

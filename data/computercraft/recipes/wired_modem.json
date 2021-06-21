@@ -1,0 +1,26 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "ABA",
+        "CDC",
+        " A "
+    ],
+    "key": {
+        "A": {
+            "item": "create:andesite_alloy"
+        },
+        "B": {
+            "item": "create:polished_rose_quartz"
+        },
+        "C": {
+            "item": "create:zinc_ingot"
+        },
+        "D": {
+            "item": "create:integrated_circuit"
+        }
+    },
+    "result": {
+        "item": "computercraft:wired_modem",
+        "count": 1
+    }
+}

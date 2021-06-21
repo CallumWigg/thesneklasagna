@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+      "ABABA",
+      "BFGCB",
+      "ADEDA",
+      "BCGFB",
+      "ABABA"
+  ],
+  "key": {
+      "A": { "item": "create:refined_radiance" },
+      "B": { "item": "create:lapis_sheet" },
+      "C": { "item": "minecraft:obsidian" },
+      "D": { "item": "minecraft:ender_pearl" },
+      "E": { "item": "create:shadow_steel" },
+      "F": { "item": "minecraft:crying_obsidian" },
+      "G": { "item": "minecraft:emerald" }
+  },
+  "result": {
+      "item": "moreminecarts:chunk_loader",
+      "count": 1
+  }
+}

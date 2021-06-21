@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CCC",
+    "   "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:blue_ice"
+    },
+    "B": {
+      "item": "moreminecarts:hard_light_lens"
+    },
+    "C": {
+      "item": "moreminecarts:maglev_powered_rail"
+    }
+  },
+  "result": {
+    "item": "moreminecarts:lightspeed_powered_rail",
+    "count": 3
+  }
+}

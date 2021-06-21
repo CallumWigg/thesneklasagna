@@ -1,0 +1,25 @@
+{
+	"type": "create:mixing",
+  "group": "simplytea:cup_cocoa",
+	"ingredients": [
+	  {
+		  "item": "minecraft:cocoa_beans"
+	  },
+	  {
+		"item": "simplytea:cup"
+	  },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+	  {
+      "fluidTag": "forge:milk",
+      "amount": 250
+    }
+	],
+	"results": [
+	  {
+		"item": "simplytea:cup_cocoa"
+	  }
+	],
+	"heatRequirement": "heated"
+  }

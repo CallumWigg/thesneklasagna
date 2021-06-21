@@ -1,0 +1,29 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "ABA",
+        "CDC",
+        "AEA"
+    ],
+    "key": {
+        "A": {
+            "item": "create:iron_sheet"
+        },
+        "B": {
+            "item": "create:electron_tube"
+        },
+        "C": {
+            "item": "create:brass_sheet"
+        },
+        "D": {
+            "item": "create:brass_hand"
+        },
+        "E": {
+            "item": "create:integrated_circuit"
+        }
+    },
+    "result": {
+        "item": "computercraft:printer",
+        "count": 1
+    }
+}

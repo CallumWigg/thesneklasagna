@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "A",
+    "B",
+    "C",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:bread"
+    },
+    "B": {
+      "item": "pamhc2foodcore:mayonaiseitem"
+    },
+    "C": {
+      "item": "pamhc2foodcore:groundfishitem"
+    }
+  },
+  "result": {
+    "item": "pamhc2foodcore:basicfishsandwichitem"
+  }
+}

@@ -1,0 +1,18 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:cookingoilitem"
+    },
+    {
+      "item": "pamhc2foodcore:batteritem"
+    }
+	],
+	
+	"results": [{"item": "pamhc2foodcore:donutitem",
+	"count": 1}
+  ],
+  "heatRequirement": "heated"	
+}

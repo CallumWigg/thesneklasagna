@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+	  {
+		"tag": "forge:crops/tealeaf"
+	  },
+	  {
+		"fluid": "minecraft:water",
+		"nbt": {},
+		"amount": 250
+	  }
+	],
+	"results": [
+	  {
+		"item": "pamhc2crops:hotteaitem"
+	  }
+	],
+	"heatRequirement": "heated"
+  }

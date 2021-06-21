@@ -1,0 +1,25 @@
+{
+	"type": "create:mixing",
+  "group": "simplytea:chai_tea",
+	"ingredients": [
+	  {
+		  "item": "simplytea:teabag_black"
+	  },
+	  {
+		"item": "simplytea:cup"
+	  },
+    {
+      "item": "simplytea:tea_stick"
+    },
+	  {
+      "fluidTag": "forge:milk",
+      "amount": 250
+    }
+	],
+	"results": [
+	  {
+		"item": "simplytea:cup_tea_chai"
+	  }
+	],
+	"heatRequirement": "heated"
+  }

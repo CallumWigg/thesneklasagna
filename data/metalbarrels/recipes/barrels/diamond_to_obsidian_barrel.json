@@ -1,0 +1,13 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "   ",
+        "obo",
+        "   "
+    ],
+    "key":{
+        "o":{"item":"create:shadow_steel"},
+        "b":{"tag":"forge:barrels/diamond"}
+    },
+    "result":{"item":"metalbarrels:obsidian_barrel"}
+}

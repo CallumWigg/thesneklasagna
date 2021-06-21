@@ -1,0 +1,18 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:caramelitem"
+    },
+    {
+      "item": "pamhc2foodcore:batteritem"
+    }
+	],
+	
+	"results": [{"item": "pamhc2foodcore:caramelmuffinitem",
+	"count": 2}
+  ],
+  "heatRequirement": "heated"	
+}

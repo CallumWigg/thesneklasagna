@@ -1,0 +1,23 @@
+{
+	"type": "create:mixing",
+  "group": "simplytea:chorus_tea",
+	"ingredients": [
+	  {
+		"item": "simplytea:teabag_chorus"
+	  },
+	  {
+		"item": "simplytea:cup"
+	  },
+	  {
+		"fluid": "minecraft:water",
+		"nbt": {},
+		"amount": 250
+	  }
+	],
+	"results": [
+	  {
+		"item": "simplytea:cup_tea_chorus"
+	  }
+	],
+	"heatRequirement": "heated"
+  }

@@ -1,0 +1,15 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:sweetberryjellyitem"
+    },
+    {
+      "item": "pamhc2foodcore:toastitem"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:sweetberryjellytoastitem",
+	"count": 1}]
+}

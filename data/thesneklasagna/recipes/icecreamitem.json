@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:ices"
+    },
+    {
+      "item": "pamhc2foodcore:saltitem"
+    },
+    {
+      "fluidTag": "forge:milk",
+      "amount": 250
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:icecreamitem",
+	"count": 1}]
+}

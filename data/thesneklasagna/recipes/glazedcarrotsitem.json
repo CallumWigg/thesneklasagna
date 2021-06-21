@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "fluid": "create:honey",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:glazedcarrotsitem"
+    }
+  ]
+}

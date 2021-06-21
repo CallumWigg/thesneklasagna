@@ -1,0 +1,12 @@
+{
+	"type": "create:compacting",
+	
+	"ingredients":
+	[
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:chocolatebaritem",
+	"count": 1}]
+}

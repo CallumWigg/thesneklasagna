@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	"ingredients":
+	[
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:chocolatebar"
+    },
+    {
+      "item": "pamhc2foodcore:batteritem"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:chocolatecakeitem",
+	"count": 1}
+  ],
+  "heatRequirement": "heated"
+}

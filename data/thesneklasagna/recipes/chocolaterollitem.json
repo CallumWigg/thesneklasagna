@@ -1,0 +1,19 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "item": "pamhc2foodcore:creamitem"
+    },
+    {
+      "item": "pamhc2foodcore:cocoapowderitem"
+    },
+    {
+      "item": "create:dough"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:chocolaterollitem",
+	"count": 1}],
+  "heatRequirement": "heated"
+}

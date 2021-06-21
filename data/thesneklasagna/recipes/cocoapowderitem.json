@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:crops/cocoabeans"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:cocoapowderitem"
+    }
+  ]
+}

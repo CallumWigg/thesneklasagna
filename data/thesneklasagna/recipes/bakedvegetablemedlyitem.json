@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:vegetables"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:bakedvegetablemedlyitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

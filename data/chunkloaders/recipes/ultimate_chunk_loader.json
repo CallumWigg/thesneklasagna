@@ -1,0 +1,28 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "  ABABA  ",
+        "  BCDCB  ",
+        "ABAEFEABA",
+        "BCEFGFECB",
+        "ADFGHGFDA",
+        "BCEFGFECB",
+        "ABAEFEABA",
+        "  BCDCB  ",
+        "  ABABA  "
+    ],
+    "key": {
+        "A": { "item": "create:refined_radiance" },
+        "B": { "item": "minecraft:obsidian" },
+        "C": { "item": "minecraft:diamond" },
+        "D": { "item": "minecraft:ender_eye" },
+        "E": { "item": "minecraft:ender_pearl" },
+        "F": { "item": "create:shadow_steel" },
+        "G": { "item": "create:lapis_sheet" },
+        "H": { "item": "chunkloaders:advanced_chunk_loader" }
+    },
+    "result": {
+        "item": "chunkloaders:ultimate_chunk_loader",
+        "count": 1
+    }
+}

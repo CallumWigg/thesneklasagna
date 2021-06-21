@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "forge:groundmeats"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:meatloafitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:rawmeats"
+    },
+    {
+      "item": "create:wheat_flour"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 125
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodcore:stewitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

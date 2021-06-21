@@ -1,0 +1,26 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "FGHGF",
+        "BIJIB",
+        "ABBBA"
+    ],
+    "key": {
+        "A": { "item": "create:andesite_alloy" },
+        "B": { "item": "create:iron_sheet" },
+        "C": { "item": "create:chute" },
+        "D": { "item": "create:electron_tube" },
+        "E": { "item": "minecraft:comparator" },
+        "F": { "item": "create:brass_tunnel" },
+        "G": { "item": "create:golden_sheet" },
+        "H": { "tag": "storagedrawers:drawers" },
+        "I": { "item": "create:integrated_circuit" },
+        "J": { "item": "create:andesite_casing" }
+    },
+    "result": {
+        "item": "storagedrawers:controller",
+        "count": 1
+    }
+}

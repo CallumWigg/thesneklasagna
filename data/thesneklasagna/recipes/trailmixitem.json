@@ -1,0 +1,21 @@
+{
+	"type": "create:mixing",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:seeds"
+    },
+    {
+      "tag": "forge:fruits"
+    },
+    {
+      "tag": "forge:chocolatebar"
+    },
+    {
+      "item": "pamhc2foodcore:saltitem"
+    }
+	],
+	"results": [{"item": "pamhc2foodcore:trailmixitem",
+	"count": 1}]
+}

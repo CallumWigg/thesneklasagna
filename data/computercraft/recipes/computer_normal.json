@@ -1,0 +1,37 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+      " AAA ",
+      "ABCBA",
+      "ADEDA",
+      "AFGFA",
+      " AAA "
+  ],
+  "key": {
+      "A": {
+          "item": "create:iron_sheet"
+      },
+      "B": {
+          "item": "create:electron_tube"
+      },
+      "C": {
+          "item": "create:adjustable_repeater"
+      },
+      "D": {
+          "item": "create:brass_sheet"
+      },
+      "E": {
+          "tag": "forge:glass_panes"
+      },
+      "F": {
+          "item": "create:integrated_circuit"
+      },
+      "G": {
+          "item": "create:copper_casing"
+      }
+  },
+  "result": {
+      "item": "computercraft:computer_normal",
+      "count": 1
+  }
+}

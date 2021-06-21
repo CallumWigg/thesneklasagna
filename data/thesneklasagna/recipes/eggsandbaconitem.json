@@ -1,0 +1,17 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "BA"
+  ],
+  "key": {
+    "A": {
+      "item": "pamhc2foodcore:friedeggitem"
+    },
+    "B": {
+      "item": "minecraft:cooked_porkchop"
+    }
+  },
+  "result": {
+    "item": "pamhc2foodcore:baconandeggsitem"
+  }
+}
