@@ -1,0 +1,24 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "item": "pamhc2foodcore:saltitem"
+    },
+    {
+      "item": "pamhc2foodcore:vinegaritem"
+    }
+
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodextended:cheddarandsourcreampotatochipsitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

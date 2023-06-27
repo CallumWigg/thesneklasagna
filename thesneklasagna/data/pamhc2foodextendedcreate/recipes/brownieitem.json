@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "pamhc2foodcore:cocoapowderitem"
+    },
+    {
+      "item": "create:wheat_flour"
+    }
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodextended:brownieitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

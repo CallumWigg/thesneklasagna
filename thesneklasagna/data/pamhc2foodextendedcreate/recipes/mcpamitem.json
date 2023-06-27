@@ -1,0 +1,35 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:bread"
+    },
+    "B": {
+      "item": "pamhc2foodextended:relishitem"
+    },
+    "C": {
+      "item": "pamhc2crops:lettuceitem"
+    },
+    "E": {
+      "item": "pamhc2crops:onionitem"
+    },
+    "F": {
+      "tag": "forge:condiments"
+    },
+    "D": {
+      "item": "pamhc2foodcore:groundbeefitem"
+    }
+  },
+  "result": {
+    "item": "pamhc2foodextended:mcpamitem"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "pamhc2crops:tomatoitem"
+    },
+    {
+      "item": "pamhc2crops:mustardseedsitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodextended:bbqsauceitem"
+    }
+  ]
+}

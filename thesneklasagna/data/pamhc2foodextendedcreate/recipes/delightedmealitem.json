@@ -1,0 +1,20 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "ABC"
+  ],
+  "key": {
+    "A": {
+      "item": "pamhc2foodextended:mcpamitem"
+    },
+    "B": {
+      "item": "pamhc2foodcore:friesitem"
+    },
+    "C": {
+      "tag": "forge:sodas"
+    }
+  },
+  "result": {
+    "item": "pamhc2foodextended:delightedmealitem"
+  }
+}

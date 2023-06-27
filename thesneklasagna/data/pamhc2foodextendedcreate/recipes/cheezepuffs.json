@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "item": "pamhc2foodextended:cornmealitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodextended:cheezepuffsitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

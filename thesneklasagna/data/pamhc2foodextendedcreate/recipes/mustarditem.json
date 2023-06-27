@@ -1,0 +1,13 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "pamhc2crops:mustardseedsitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodextended:mustarditem"
+    }
+  ]
+}

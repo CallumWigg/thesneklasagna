@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "pamhc2foodcore:saltitem"
+    },
+    {
+      "item": "pamhc2foodextended:blackpepperitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodextended:saltandpepperitem"
+    }
+  ]
+}

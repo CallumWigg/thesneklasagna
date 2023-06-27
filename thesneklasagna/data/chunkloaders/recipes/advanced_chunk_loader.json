@@ -1,0 +1,25 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "ABABABA",
+        "BCCDCCB",
+        "ACEGECA",
+        "BDGFGDB",
+        "ACEGECA",
+        "BCCDCCB",
+        "ABABABA"
+    ],
+    "key": {
+        "A": { "item": "create:refined_radiance" },
+        "B": { "item": "create:golden_sheet" },
+        "C": { "item": "minecraft:obsidian" },
+        "D": { "item": "create:lapis_sheet" },
+        "E": { "item": "minecraft:ender_eye" },
+        "F": { "item": "chunkloaders:basic_chunk_loader" },
+        "G": { "item": "create:shadow_steel"}
+    },
+    "result": {
+        "item": "chunkloaders:advanced_chunk_loader",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "item": "pamhc2foodextended:bbqsauceitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodextended:bbqpotatochipsitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

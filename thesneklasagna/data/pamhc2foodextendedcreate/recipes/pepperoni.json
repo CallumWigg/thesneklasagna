@@ -1,0 +1,13 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "pamhc2crops:cucumberitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodextended:relishitem"
+    }
+  ]
+}

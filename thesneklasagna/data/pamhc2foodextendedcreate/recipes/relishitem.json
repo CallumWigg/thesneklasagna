@@ -1,0 +1,16 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "pamhc2crops:spiceleafitem"
+    },
+    {
+      "item": "minecraft:porkchop"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodextended:pepperoniitem"
+    }
+  ]
+}

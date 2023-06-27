@@ -1,0 +1,13 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "pamhc2crops:chilipepperitem"
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodextended:hotsauceitem"
+    }
+  ]
+}

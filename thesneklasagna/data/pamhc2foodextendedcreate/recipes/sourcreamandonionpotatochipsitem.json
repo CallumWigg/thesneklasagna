@@ -1,0 +1,24 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "item": "pamhc2crops:onionitem"
+    },
+    {
+      "tag": "forge:cream"
+    }
+     
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodextended:sourcreamandonionpotatochipsitem"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "pamhc2trees:lemonitem"
+    },
+    {
+      "item": "pamhc2trees:limeitem"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "pamhc2foodextended:lemonlimesodaitem"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+    {
+      "item": "pamhc2foodcore:saltitem"
+    },
+    {
+      "tag": "forge:rawmeats"
+    }
+	],
+	"results": [{"item": "pamhc2foodextended:sausageitem",
+	"count": 1
+}],
+	"heatRequirement": "heated"
+}
